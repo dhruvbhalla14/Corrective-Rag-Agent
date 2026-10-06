@@ -1,0 +1,10 @@
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+pydantic
+python-dotenv
+tavily-python
+faiss-cpu
+pypdf
