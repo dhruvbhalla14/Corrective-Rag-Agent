@@ -1,4 +1,4 @@
-# Corrective RAG for Deep Learning
+# Corrective RAG AI Agent
 
 An experimental, notebook based Corrective Retrieval Augmented Generation (CRAG) pipeline. It answers questions using the included deep learning book, checks whether retrieved passages are relevant, and uses web search when the book does not provide enough evidence.
 
