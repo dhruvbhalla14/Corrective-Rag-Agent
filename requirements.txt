@@ -6,5 +6,6 @@ langgraph
 pydantic
 python-dotenv
 tavily-python
+langchain-tavily
 faiss-cpu
 pypdf
